@@ -1,0 +1,14 @@
+{
+  "id": "Act3GuaranteeDoormaker",
+  "pck_name": "Act3GuaranteeDoormaker",
+  "name": "第三幕必有铸门者",
+  "author": "",
+  "description": "第三幕首领战必定出现 The Doormaker（铸门者）。单首领时固定为该 Boss；进阶「双首领」时若随机未包含铸门者，则将主首领位改为铸门者。依赖 STS2-RitsuLib。",
+  "version": "1.0.0",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": true,
+  "dependencies": [
+    "STS2-RitsuLib"
+  ]
+}
