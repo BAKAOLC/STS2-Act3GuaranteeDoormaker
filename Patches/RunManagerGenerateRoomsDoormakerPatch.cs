@@ -1,7 +1,7 @@
 using MegaCrit.Sts2.Core.Entities.Ascension;
 using MegaCrit.Sts2.Core.Models;
 using MegaCrit.Sts2.Core.Models.Acts;
-using MegaCrit.Sts2.Core.Models.Encounters;
+using Act3GuaranteeDoormaker.Models.Encounters;
 using MegaCrit.Sts2.Core.Runs;
 using STS2RitsuLib.Patching.Models;
 

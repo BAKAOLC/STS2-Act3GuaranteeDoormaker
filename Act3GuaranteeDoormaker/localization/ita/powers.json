@@ -1,0 +1,12 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.title": "Stretta",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.description": "Ogni volta che giochi una carta, perdi [blue]1[/blue] di Energia.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.smartDescription": "Ogni volta che giochi una carta, perdi {Amount:energyIcons()}.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.title": "Occhiata",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.description": "Non puoi pescare carte extra durante il tuo turno.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.smartDescription": "Non puoi pescare carte extra durante il tuo turno.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.title": "Golosità",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.description": "Ogni volta che giochi una carta Attacco o Abilità, questa viene [gold]esaurita[/gold].",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.smartDescription": "Ogni volta che giochi una carta Attacco o Abilità, questa viene [gold]esaurita[/gold]."
+}
+

@@ -1,0 +1,12 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.title": "Agarrar",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.description": "Sempre que você jogar uma carta, perca [blue]1[/blue] Energia.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.smartDescription": "Sempre que você jogar uma carta, perca {Amount:energyIcons()}.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.title": "Inspeção",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.description": "Você não pode comprar cartas adicionais durante o seu turno.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.smartDescription": "Você não pode comprar cartas adicionais durante o seu turno.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.title": "Fome",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.description": "Sempre que você jogar um Ataque ou uma Técnica, eles são [gold]Exauridos[/gold].",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.smartDescription": "Sempre que você jogar um Ataque ou uma Técnica, eles são [gold]Exauridos[/gold]."
+}
+

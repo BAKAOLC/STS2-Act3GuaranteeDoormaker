@@ -1,0 +1,7 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.description": "Verliere {Amount:energyIcons()}, wenn diese Karte gespielt wird.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.title": "Belastet",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.extraCardText": "Verliere {Amount:energyIcons()}.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.description": "Gib dieser Karte [gold]Erschöpft[/gold].",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.title": "Verschlungen"
+}

@@ -1,0 +1,7 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.description": "เสีย {Amount:energyIcons()} เมื่อเล่นการ์ดนี้",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.title": "ถ่วงน้ำหนัก",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.extraCardText": "เสีย {Amount:energyIcons()}",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.description": "เพิ่ม[gold]สลาย[/gold]ใส่การ์ดนี้",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.title": "ถูกกลืนกิน"
+}

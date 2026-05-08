@@ -1,0 +1,9 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.description": "ทุกครั้งที่คุณเล่นการ์ด เสีย [blue]1[/blue] พลังงาน",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.smartDescription": "ทุกครั้งที่คุณเล่นการ์ด เสีย {Amount:energyIcons()}",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.description": "คุณไม่สามารถจั่วการ์ดได้อีกในเทิร์นของคุณ",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.smartDescription": "คุณไม่สามารถจั่วการ์ดได้อีกในเทิร์นของคุณ",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.description": "ทุกครั้งที่คุณเล่นการ์ดโจมตีหรือทักษะ มันจะถูก[gold]สลาย[/gold]",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.smartDescription": "ทุกครั้งที่คุณเล่นการ์ดโจมตีหรือทักษะ มันจะถูก[gold]สลาย[/gold]"
+}
+

@@ -1,7 +1,9 @@
+using System.Reflection;
 using Act3GuaranteeDoormaker.Patches;
 using MegaCrit.Sts2.Core.Logging;
 using MegaCrit.Sts2.Core.Modding;
 using STS2RitsuLib;
+using STS2RitsuLib.Interop;
 using STS2RitsuLib.Patching.Core;
 
 namespace Act3GuaranteeDoormaker;
@@ -20,6 +22,10 @@ public static class Main
 
         try
         {
+            var assembly = Assembly.GetExecutingAssembly();
+            RitsuLibFramework.EnsureGodotScriptsRegistered(assembly, Logger);
+            ModTypeDiscoveryHub.RegisterModAssembly(Const.ModId, assembly);
+
             var patcher = RitsuLibFramework.CreatePatcher(Const.ModId, "main");
             patcher.RegisterPatch<RunManagerGenerateRoomsDoormakerPatch>();
 

@@ -1,0 +1,7 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.description": "이 카드를 사용 시 {Amount:energyIcons()}를 잃습니다.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.title": "가중",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.extraCardText": "{Amount:energyIcons()}를 잃습니다.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.description": "이 카드에 [gold]소멸[/gold]을 추가합니다.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.title": "집어삼킴"
+}

@@ -12,13 +12,24 @@
         <NoWarn>CS0436</NoWarn>
     </PropertyGroup>
 
+    <PropertyGroup>
+        <GodotExportPreset>BasicExport</GodotExportPreset>
+        <ModOutputDir>$(Sts2Dir)\mods\$(MSBuildProjectName)\</ModOutputDir>
+        <ModPckPath>$(ModOutputDir)$(MSBuildProjectName).pck</ModPckPath>
+    </PropertyGroup>
+
     <Target Name="EnsureLocalProps" BeforeTargets="PrepareForBuild" Condition="!Exists('.\local.props')">
         <Error Text="Missing '.\local.props'. Copy '.\local.props.template' to '.\local.props', then update 'Sts2Dir' and 'GodotExe' for your local environment."/>
     </Target>
 
+    <PropertyGroup>
+        <RunPckExport Condition="'$(RunPckExport)' == '' and '$(DesignTimeBuild)' != 'true'">true</RunPckExport>
+        <RunPckExport Condition="'$(RunPckExport)' == ''">false</RunPckExport>
+    </PropertyGroup>
+
     <ItemGroup>
         <PackageReference Include="Krafs.Publicizer" Version="2.3.0" PrivateAssets="all"/>
-        <PackageReference Include="STS2.RitsuLib" Version="0.0.48"/>
+        <PackageReference Include="STS2.RitsuLib" Version="0.0.60"/>
     </ItemGroup>
 
     <ItemGroup>
@@ -44,8 +55,18 @@
 
     <Target Name="Copy Mod" AfterTargets="PostBuildEvent">
         <Message Text="Copying Act3GuaranteeDoormaker to mods folder..." Importance="high"/>
-        <MakeDir Directories="$(Sts2Dir)\mods\$(MSBuildProjectName)\"/>
-        <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(Sts2Dir)\mods\$(MSBuildProjectName)\"/>
-        <Copy SourceFiles="$(MSBuildProjectDirectory)\mod_manifest.json" DestinationFolder="$(Sts2Dir)\mods\$(MSBuildProjectName)\"/>
+        <MakeDir Directories="$(ModOutputDir)"/>
+        <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(ModOutputDir)"/>
+        <Copy SourceFiles="$(MSBuildProjectDirectory)\mod_manifest.json" DestinationFolder="$(ModOutputDir)"/>
+    </Target>
+
+    <Target Name="Export Mod PCK" AfterTargets="Build" Condition="'$(RunPckExport)' == 'true' and '$(STS2_SKIP_PCK_EXPORT)' != '1' and Exists('$(GodotExe)')">
+        <Message Text="Exporting mod PCK with MegaDot..." Importance="high"/>
+        <MakeDir Directories="$(ModOutputDir)"/>
+        <Exec Command="&quot;$(GodotExe)&quot; --headless --path &quot;$(MSBuildProjectDirectory)&quot; --export-pack &quot;$(GodotExportPreset)&quot; &quot;$(ModPckPath)&quot;" EnvironmentVariables="STS2_SKIP_PCK_EXPORT=1"/>
+    </Target>
+
+    <Target Name="Warn Missing Godot" AfterTargets="Build" Condition="'$(RunPckExport)' == 'true' and '$(STS2_SKIP_PCK_EXPORT)' != '1' and !Exists('$(GodotExe)')">
+        <Warning Text="Godot executable not found at $(GodotExe). Skipped PCK export."/>
     </Target>
 </Project>

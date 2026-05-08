@@ -1,0 +1,12 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.title": "Agarre",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.description": "Al jugar una carta, se quita [blue]1[/blue] de energía.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.smartDescription": "Al jugar una carta, se quita {Amount:energyIcons()}.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.title": "Escrutinio",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.description": "No puedes robar cartas adicionales durante tu turno.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.smartDescription": "No puedes robar cartas adicionales durante tu turno.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.title": "Hambruna",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.description": "Al jugar una carta de ataque o habilidad, se [gold]agotará[/gold].",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.smartDescription": "Al jugar una carta de ataque o habilidad, se [gold]agotará[/gold]."
+}
+

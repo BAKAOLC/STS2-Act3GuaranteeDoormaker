@@ -1,0 +1,12 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.title": "Greifen",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.description": "Immer wenn du eine Karte spielst, verliere [blue]1[/blue] Energie.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.smartDescription": "Immer wenn du eine Karte spielst, verliere {Amount:energyIcons()}.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.title": "Überprüfung",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.description": "Du kannst in deinem Zug keine weiteren Karten ziehen.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.smartDescription": "Du kannst in deinem Zug keine weiteren Karten ziehen.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.title": "Hungern",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.description": "Immer wenn du einen Angriff oder eine Fertigkeit spielst, wird sie [gold]Erschöpft[/gold].",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.smartDescription": "Immer wenn du einen Angriff oder eine Fertigkeit spielst, wird sie [gold]Erschöpft[/gold]."
+}
+

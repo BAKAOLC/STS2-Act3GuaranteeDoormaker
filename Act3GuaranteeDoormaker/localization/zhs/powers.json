@@ -1,0 +1,12 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.title": "紧握",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.description": "每当你打出一张牌时，失去 [blue]1[/blue]点能量。",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.smartDescription": "每当你打出一张牌，就失去{Amount:energyIcons()}。",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.title": "细看",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.description": "在你的回合内你无法额外抽牌。",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.smartDescription": "在你的回合内你无法额外抽牌。",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.title": "饥饿",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.description": "当你打出攻击牌或技能牌时，将其[gold]消耗[/gold]。",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.smartDescription": "当你打出攻击牌或技能牌时，将其[gold]消耗[/gold]。"
+}
+

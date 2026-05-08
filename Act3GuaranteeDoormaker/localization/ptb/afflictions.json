@@ -1,0 +1,7 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.description": "Perca {Amount:energyIcons()} quando esta carta é jogada.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.title": "Lastreada",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.extraCardText": "Perca {Amount:energyIcons()}.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.description": "Adiciona [gold]Exaurir[/gold] a esta carta.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.title": "Devorada"
+}

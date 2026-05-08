@@ -1,0 +1,7 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.description": "Bu kart oynandığında {Amount:energyIcons()} kaybet.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.title": "Ağırlaştırılmış",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.extraCardText": "{Amount:energyIcons()} kaybet.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.description": "Bu karta [gold]Tüket[/gold] ekle.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.title": "Yutulmuş"
+}

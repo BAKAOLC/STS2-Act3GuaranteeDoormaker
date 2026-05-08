@@ -1,0 +1,12 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.title": "움켜쥐기",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.description": "카드를 사용할 때마다, 에너지를 [blue]1[/blue] 잃습니다.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.smartDescription": "카드를 사용할 때마다, {Amount:energyIcons()}를 잃습니다.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.title": "감시",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.description": "내 턴 동안 카드를 뽑을 수 없습니다.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.smartDescription": "내 턴 동안 카드를 뽑을 수 없습니다.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.title": "굶주림",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.description": "공격이나 스킬 카드를 사용 시, 그 카드가 [gold]소멸[/gold]됩니다.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.smartDescription": "공격이나 스킬 카드를 사용 시, 그 카드가 [gold]소멸[/gold]됩니다."
+}
+

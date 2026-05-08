@@ -1,0 +1,7 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.description": "Вы потеряете {Amount:energyIcons()}, если разыграете эту карту.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.title": "Тяжесть",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.extraCardText": "Вы потеряете {Amount:energyIcons()}.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.description": "Карта [gold]сжигается[/gold] при разыгрывании.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.title": "Поглощение"
+}

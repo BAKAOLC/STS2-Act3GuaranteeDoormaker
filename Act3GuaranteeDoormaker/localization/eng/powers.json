@@ -1,0 +1,12 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.title": "Grasp",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.description": "Whenever you play a card, lose [blue]1[/blue] Energy.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.smartDescription": "Whenever you play a card, lose {Amount:energyIcons()}.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.title": "Scrutiny",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.description": "You cannot draw additional cards during your turn.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.smartDescription": "You cannot draw additional cards during your turn.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.title": "Hunger",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.description": "Whenever you play an Attack or Skill, it is [gold]Exhausted[/gold].",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.smartDescription": "Whenever you play an Attack or Skill, it is [gold]Exhausted[/gold]."
+}
+

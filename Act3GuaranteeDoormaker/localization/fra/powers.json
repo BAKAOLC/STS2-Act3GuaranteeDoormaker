@@ -1,0 +1,12 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.title": "Étreinte",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.description": "Chaque fois que vous jouez une carte, perdez [blue]1[/blue] d'Énergie.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.smartDescription": "Chaque fois que vous jouez une carte, perdez {Amount:energyIcons()}.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.title": "Regard pesant",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.description": "Vous ne pouvez plus piocher de cartes ce tour.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.smartDescription": "Vous ne pouvez plus piocher de cartes ce tour.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.title": "Voracité",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.description": "Lorsque vous jouez une Attaque ou une Compétence, elle est [gold]Épuisée[/gold].",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.smartDescription": "Lorsque vous jouez une Attaque ou une Compétence, elle est [gold]Épuisée[/gold]."
+}
+

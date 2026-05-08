@@ -1,0 +1,7 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.description": "Cuando esta carta se juegue, pierde {Amount:energyIcons()}.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.title": "Pesadez",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.extraCardText": "Pierde {Amount:energyIcons()}.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.description": "Añade [gold]Agotamiento[/gold] a esta carta.",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.title": "Devoración"
+}

@@ -1,0 +1,12 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.title": "Uścisk",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.description": "Kiedykolwiek zagrasz kartę, utrać [blue]1[/blue] pkt. Energii.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.smartDescription": "Kiedykolwiek zagrasz kartę, utrać {Amount:energyIcons()}.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.title": "Nadzór",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.description": "Nie możesz dobierać więcej kart w swojej turze.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.smartDescription": "Nie możesz dobierać więcej kart w swojej turze.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.title": "Głód",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.description": "Kiedykolwiek zagrasz kartę Ataku lub Umiejętności, zostaje [gold]Wyczerpana[/gold].",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.smartDescription": "Kiedykolwiek zagrasz kartę Ataku lub Umiejętności, zostaje [gold]Wyczerpana[/gold]."
+}
+

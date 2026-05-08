@@ -1,0 +1,7 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.description": "このカードをプレイした時、{Amount:energyIcons()}を失う。",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.title": "重荷",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.extraCardText": "{Amount:energyIcons()}を失う。",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.description": "このカードに[gold]廃棄[/gold]を付与する。",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.title": "貪食"
+}

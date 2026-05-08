@@ -1,0 +1,12 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.title": "掌握",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.description": "カードをプレイするたび、エナジーを[blue]1[/blue]失う。",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.smartDescription": "カードをプレイするたび、{Amount:energyIcons()}を失う。",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.title": "監視",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.description": "このターン、追加でカードを引くことができない。",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.smartDescription": "このターン、追加でカードを引くことができない。",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.title": "飢餓",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.description": "アタックかスキルをプレイするたび、それを[gold]廃棄[/gold]する。",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.smartDescription": "アタックかスキルをプレイするたび、それを[gold]廃棄[/gold]する。"
+}
+

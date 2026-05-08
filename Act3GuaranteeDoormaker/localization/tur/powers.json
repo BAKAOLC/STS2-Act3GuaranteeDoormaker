@@ -1,0 +1,12 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.title": "Kavrayış",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.description": "Her kart oynadığında [blue]1[/blue] Enerji kaybet.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.smartDescription": "Her kart oynadığında {Amount:energyIcons()} kaybet.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.title": "İnceleme",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.description": "Turun esnasında fazladan kart çekemezsin.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.smartDescription": "Turun esnasında fazladan kart çekemezsin.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.title": "Açlık",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.description": "Her Saldırı veya Beceri kartı oynadığında o kart [gold]Tüketilir[/gold].",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.smartDescription": "Her Saldırı veya Beceri kartı oynadığında o kart [gold]Tüketilir[/gold]."
+}
+

@@ -1,0 +1,12 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.title": "Хватка",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.description": "При розыгрыше любой карты вы теряете [blue]1[/blue] энергию.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_GRASP_POWER.smartDescription": "При розыгрыше любой карты вы теряете [blue]1[/blue] {Amount:energyIcons()}.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.title": "Укоризна",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.description": "Вы не можете добирать дополнительные карты в свой ход.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_SCRUTINY_POWER.smartDescription": "Вы не можете добирать дополнительные карты в свой ход.",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.title": "Ненасытность",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.description": "Разыгрываемые Атаки и Навыки [gold]сжигаются[/gold].",
+  "ACT3_GUARANTEE_DOORMAKER_POWER_HUNGER_POWER.smartDescription": "Разыгрываемые Атаки и Навыки [gold]сжигаются[/gold]."
+}
+

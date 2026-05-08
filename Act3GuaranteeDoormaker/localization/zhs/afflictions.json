@@ -1,0 +1,7 @@
+{
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.description": "打出这张牌时失去{Amount:energyIcons()}。",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.title": "沉重",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_WEIGHTED.extraCardText": "失去{Amount:energyIcons()}。",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.description": "为这张牌添加[gold]消耗[/gold]。",
+  "ACT3_GUARANTEE_DOORMAKER_AFFLICTION_DEVOURED.title": "吞噬"
+}
